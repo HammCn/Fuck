@@ -1,0 +1,25 @@
+{
+    "name": "hamm/fuck",
+    "description": "FuckPHP Project",
+    "type": "project",
+    "license": "apache-2.0",
+    "authors": [
+        {
+            "name": "Hamm",
+            "email": "majhamm@qq.com"
+        }
+    ],
+    "require": {
+        "hamm/fuckphp": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
