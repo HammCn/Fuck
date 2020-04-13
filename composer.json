@@ -12,6 +12,9 @@
     "require": {
         "hamm/fuckphp": "@dev"
     },
+    "require-dev": {
+        "hamm/fuckphp": "@dev"
+    },
     "autoload": {
         "psr-4": {
             "app\\": "app"
